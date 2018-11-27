@@ -1,0 +1,12 @@
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\bin\Release\netstandard2.0\MyLatLongApp.deps.json
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\bin\Release\netstandard2.0\MyLatLongApp.dll
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\bin\Release\netstandard2.0\MyLatLongApp.pdb
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Release\netstandard2.0\MyLatLongApp.csprojAssemblyReference.cache
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Release\netstandard2.0\MyLatLongApp.csproj.CoreCompileInputs.cache
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Release\netstandard2.0\MyLatLongApp.AssemblyInfoInputs.cache
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Release\netstandard2.0\MyLatLongApp.AssemblyInfo.cs
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Release\netstandard2.0\XamlC.stamp
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Release\netstandard2.0\MyLatLongApp.dll
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Release\netstandard2.0\MyLatLongApp.pdb

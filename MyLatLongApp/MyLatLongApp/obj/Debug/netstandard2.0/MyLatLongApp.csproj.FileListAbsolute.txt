@@ -1,0 +1,24 @@
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\bin\Debug\netstandard2.0\MyLatLongApp.deps.json
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\bin\Debug\netstandard2.0\MyLatLongApp.dll
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\bin\Debug\netstandard2.0\MyLatLongApp.pdb
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.csprojAssemblyReference.cache
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.csproj.CoreCompileInputs.cache
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.AssemblyInfoInputs.cache
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.AssemblyInfo.cs
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.dll
+C:\Users\dhthakkar\Documents\Visual Studio 2017\Projects\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.pdb
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\bin\Debug\netstandard2.0\MyLatLongApp.deps.json
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\bin\Debug\netstandard2.0\MyLatLongApp.dll
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\bin\Debug\netstandard2.0\MyLatLongApp.pdb
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.csproj.CoreCompileInputs.cache
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.AssemblyInfoInputs.cache
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.AssemblyInfo.cs
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.dll
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.pdb
+C:\MyLatLongApp\MyLatLongApp\MyLatLongApp\obj\Debug\netstandard2.0\MyLatLongApp.csprojAssemblyReference.cache

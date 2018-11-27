@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MyLatLongApp"
+             x:Class="MyLatLongApp.MainPage">
+
+    <StackLayout Orientation="Vertical">
+        <!-- Place new controls here -->
+        <Button Text="Get My Location" Clicked="Button_Clicked"/>
+        <Label x:Name="OldLatitude" Text="Old Latitude" TextColor="Gray" FontSize="30"/>
+        <Label x:Name="OldLat" FontSize="20" />
+        <Label x:Name="OldLongitude" Text="Old Longitude" FontSize="30" TextColor="Gray"/>
+        <Label x:Name="OldLng" FontSize="20" />
+        <Label x:Name="Latitude" Text="Latitude" TextColor="Gray" FontSize="30"/>
+        <Label x:Name="Lat" FontSize="20" />
+        <Label x:Name="Longitude" Text="Longitude" FontSize="30" TextColor="Gray"/>
+        <Label x:Name="Lng" FontSize="20"/>
+        <Label x:Name="Address" Text="Address" FontSize="30" TextColor="Gray"/>
+        <Label x:Name="Addr" FontSize="20" />
+        <Label x:Name="ExecutionTime" Text="Execution Time (ms)" FontSize="30" TextColor="Gray"/>
+        <Label x:Name="ExTime" FontSize="20" />
+    </StackLayout>
+
+</ContentPage>
